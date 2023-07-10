@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.container a{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
+    color: #fff;
+}
+
+.botao{
+    background-color: #FFF5D9;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 32px;
+    border: none;
+    cursor: pointer;
+    color: #000;
+    margin: 16px 0;
+}

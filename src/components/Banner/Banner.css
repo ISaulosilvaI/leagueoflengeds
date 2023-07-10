@@ -1,0 +1,9 @@
+.banner{
+    text-align: center;
+}
+
+.banner img{
+    max-width: 100%;
+    background-size: cover;
+    background: no-repeat center center;
+}
